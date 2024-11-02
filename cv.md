@@ -20,18 +20,19 @@ I'm  <b>Front-end developer</b> <img src="https://user-images.githubusercontent.
 - ⚡ I am deeply engaged in frontend development and eagerly poised to make a positive impact on the industry.
 
 - ✅ My overarching ambition is to perpetually enhance my skills in software development while making a substantial impact on the landscape of information technology.
+
 - 🌐 Alongside  technical skills, I greatly enjoy engaging with others, fostering open dialogue, asking thoughtful questions, and nurturing a friendly and warm atmosphere.
 ---
+
 ### 4. 🤖 Technologies
 
   <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="40" height="40"/>&nbsp
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp
-     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  </div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+</div>
 
 ---
 ### 5. 💻 Code Examples
